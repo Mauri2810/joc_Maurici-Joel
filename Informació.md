@@ -9,5 +9,5 @@ aventura curta però intensa.
 Amb mecàniques clàssiques com moure’s, saltar i disparar, el jugador haurà d’esquivar obstacles, eliminar enemics i superar nivells cada vegada més desafiants. 
 El joc inclou una tenda d’habilitats on es poden adquirir millores per facilitar el progrés, oferint així un toc de personalització i progressió estratègica.
 
-El joc està disponible en castellà i anglès, té música extreta de YouTube per ambientar les partides i està pensat per a tots els públics. 
+El joc , té música extreta de YouTube per ambientar les partides i està pensat per a tots els públics. 
 Una partida completa pot durar entre 7 i 8 minuts, amb nivells de 2-3 minuts plens d’acció i adrenalina.
