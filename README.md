@@ -11,14 +11,18 @@ El joc , té música extreta de YouTube per ambientar les partides i està pensa
 <h2>Context</h2>
 
 Any desconegut. Temps col·lapsat. Història trencada.
+
 L’experiment fallit d’una megacorporació anomenada KairoTech va trencar el flux del temps. Ara, samurais del passat, pistolers del Far West i tecnologia del futur existeixen en un mateix món: el Territori Pèndol.
 
 En aquest caos van sorgir dues forces:
+
 🥷 El Clan de l’Eclipsi — antics ninjes, adaptats al present, mestres del sigil i del tret precís. Busquen restaurar l’equilibri a la seva manera: ràpida, silenciosa i letal.
+
 🤠 Els Sheriff del Rellotge — guardians de l’ordre, homes i dones del vell oest amb armes potents i regles clares. La seva llei és dura, la seva justícia encara més.
 
 Ambdós bàndols lluiten per controlar el Nucli Cronal, un artefacte que podria reparar la línia temporal... o destruir-la completament.
 El rellotge corre. Les bales xiulen. Les ombres es mouen.
+
 De quin costat estàs tu?
 
 <h2>Nivells</h2>
