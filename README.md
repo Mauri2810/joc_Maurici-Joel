@@ -1,4 +1,4 @@
-🥷 Shuriken Sundown
+<h1>🥷 Shuriken Sundown</h1>
 
 Un joc de plataformes creat per Mauri (programació) i Joel (art i disseny)
 
